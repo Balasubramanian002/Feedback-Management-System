@@ -1,0 +1,65 @@
+.admin-page .flex-items{
+    height:auto;
+    border: 2px solid black;
+    width:80%;
+    margin-top: 15px;
+    margin-left:10%;
+    background-color: rgb(7,7,102);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+.flex-items h1{
+    color:bisque;
+    padding: 10px;
+}
+.flex-items p{
+    color:white;
+    font-size: 35px;
+    text-align: center;
+}
+.flex-items button{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding:5px;
+    margin-top: 5px;
+}
+.popup{
+    height:300px;
+    width:400px;
+    border: 2px solid black;
+    margin-left: 40%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(7,7,102);
+    border-radius: 15px;
+}
+
+.popup input{
+    font-size:15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    width:200px;
+}
+.popup .popbutton{
+    margin-left:116%;
+    background-color: red;
+    color: white;
+    width:40px;
+    border-radius: 0;
+
+}
+
+.popup textarea{
+    width:200px;
+    height:100px;
+    font-size: 20px;
+    padding: 10px;
+}

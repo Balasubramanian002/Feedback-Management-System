@@ -1,0 +1,44 @@
+
+.profile-div{
+    width:100%;
+    margin:0;
+    padding:0;
+    height:950px;
+    background-color: rgb(7, 7, 102);
+    border:2px solid black;
+    
+}
+.card h2{
+    color:Green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.card h3{
+    color:brown;
+    font-size: 25px;
+
+}
+.card img{
+    border-radius:50px;
+}
+.profile-div .outer{
+  width:400px;
+  height:300px;
+  border:2px solid black;
+  background-color: white;
+  margin-left: 42%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top:5%;
+  border-radius: 50px;
+
+}
+.card .b1,.card .b2{
+  background-color: green;
+  color:white;
+  padding:4px;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 20px;
+}

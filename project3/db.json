@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "9b36",
+      "Username": "bala",
+      "password": "0000",
+      "email": "j@gmail.com"
+    },
+    {
+      "id": "f5ae",
+      "Username": "bala",
+      "password": "12",
+      "email": "ghjk"
+    },
+    {
+      "id": "c0e3",
+      "Username": "admin",
+      "password": "12",
+      "email": "sdf"
+    }
+  ],
+  "Feedback": [
+    {
+      "id": "d5f2",
+      "name": "admin",
+      "feed": "The Union government had on Monday implemented the CAA, notifying the rules to fast-track citizenship for undocumented non-Muslim migrants from Pakistan, Bangladesh and Afghanistan who came to India before Decemb"
+    }
+  ],
+  "Message": [
+    {
+      "id": "f2b1",
+      "Name": "bala s",
+      "email": "21CS079@psr.edu.in",
+      "message": "asfdsd"
+    }
+  ]
+}

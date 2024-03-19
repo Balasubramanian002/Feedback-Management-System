@@ -1,0 +1,31 @@
+
+.Signup form{
+    text-align: center;
+    height:300px;
+    width: 450px;
+    border: 2px solid black;
+    justify-content: center;
+    margin-left: 34%;
+    margin-top: 70px;
+    background-color:rgb(7,7,102);
+    border-radius: 15px;
+    
+}
+.Signup h2{
+    color:bisque;
+}
+.Signup input{
+    padding:5px;
+    border-radius: 5px;
+}
+.Signup ::placeholder{
+    color:rgb(7,7,102);
+    font-size: 20px;
+}
+.Signup button{
+    background-color: green;
+    color:white;
+}
+.Signup a{
+    color:yellow;
+}
